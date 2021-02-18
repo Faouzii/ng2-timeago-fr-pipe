@@ -1,8 +1,23 @@
 {
   "name": "ng2-timeago-fr-pipe",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faouzii/ng2-timeago-fr-pipe"
+  },
+  "keywords": [
+    "Angular2",
+    "timeago",
+    "pipe",
+    "french"
+  ],
+  "author": "Faouzi Mouad <faouziitech@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Faouzii/ng2-timeago-fr-pipe/issues"
   }
 }
