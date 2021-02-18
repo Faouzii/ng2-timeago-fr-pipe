@@ -29,3 +29,18 @@ you can import this package to your angular project as the following :
 ## Usage
 
 You can use this pipe in your angular projet, as the following :
+
+1- Import the pipe Ng2TimeagoFrPipe in the module where you want to use it :
+    
+    import {Ng2TimeagoFrPipe} from 'ng2-timeago-fr-pipe';
+    
+2- Add "Ng2TimeagoFrPipe" to your module declarations
+
+    @NgModule({
+	    imports: [... etc ...],
+	    declarations: [..., Ng2TimeagoFrPipe, ... ]
+    })
+
+3- finally, in your component template you can simply do : 
+    <p>{{myBirthDate | ng2TimeagoFr}}</p>
+
