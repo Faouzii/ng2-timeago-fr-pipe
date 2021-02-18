@@ -12,6 +12,12 @@ A very simple Angular pipe for converting dates into a french time ago
 | 2 - 23 heures  | il y X heures  |
 | 24 heurs - 47 heures   | il y 1 jour  |
 | 2 jours - 6 jours   | il y X jours  |
+| 7 jours - 13 jours   | il y 1 semaine  |
+| 2 semaines - 3 semaines   | il y X semaines  |
+| 4 semaines - 7 semaines   | il y 1 mois  |
+| 2 mois - 11 mois   | il y X mois  |
+| 12 mois - 23 mois   | il y 1 année |
+| + 2 ans    | il y X années |
 
 
 ## Code scaffolding
