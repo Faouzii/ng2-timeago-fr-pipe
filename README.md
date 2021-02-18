@@ -42,5 +42,6 @@ You can use this pipe in your angular projet, as the following :
     })
 
 3- finally, in your component template you can simply do : 
-    <p>{{myBirthDate | ng2TimeagoFr}}</p>
+   
+	<p>{{myBirthDate | ng2TimeagoFr}}</p>
 
