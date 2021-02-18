@@ -2,7 +2,7 @@
 
 A very simple Angular pipe for converting dates into a french time ago
 
-| Time Range  | Second Header |
+| Time Range  | Pipe output |
 | ------------- | ------------- |
 | 0 - 30 seconds | à l'instant  |
 | 30 - 59 seconds  | il y X seconds  |
