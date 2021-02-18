@@ -20,11 +20,7 @@ A very simple Angular pipe for converting dates into a french time ago
 | + 2 ans    | il y X années |
 
 
-
-
-After building your library with `ng build ng2-timeago-fr-pipe`, go to the dist folder `cd dist/ng2-timeago-fr-pipe` and run `npm publish`.
-
-## Running unit tests
+## Installation
 
 Run `ng test ng2-timeago-fr-pipe` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
