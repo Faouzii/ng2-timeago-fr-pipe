@@ -6,6 +6,12 @@ A very simple Angular pipe for converting dates into a french time ago
 | ------------- | ------------- |
 | 0 - 30 seconds | à l'instant  |
 | 30 - 59 seconds  | il y X seconds  |
+| 60 - 119 seconds  | il y 1 minute  |
+| 2 - 59 minutes  | il y X minutes  |
+| 60 minutes - 119 minutes  | il y 1 heure  |
+| 2 - 23 heures  | il y X heures  |
+| 24 heurs - 47 heures   | il y 1 jour  |
+| 2 jours - 6 jours   | il y X jours  |
 
 
 ## Code scaffolding
