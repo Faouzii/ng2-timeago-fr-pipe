@@ -1,6 +1,12 @@
-# Ng2TimeagoFrPipe
+# Ng2-timeago-fr-Pipe
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.14.
+A very simple Angular pipe for converting dates into a french time ago
+
+| Time Range  | Second Header |
+| ------------- | ------------- |
+| 0 - 30 seconds | à l'instant  |
+| 30 - 59 seconds  | il y X seconds  |
+
 
 ## Code scaffolding
 
