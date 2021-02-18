@@ -1,12 +1,12 @@
 import { NgModule } from '@angular/core';
-import { Ng2TimeagoFrPipeComponent } from './ng2-timeago-fr-pipe.component';
+import { Ng2TimeagoFrPipe } from './ng2-timeago-fr.pipe';
 
 
 
 @NgModule({
-  declarations: [Ng2TimeagoFrPipeComponent],
+  declarations: [Ng2TimeagoFrPipe],
   imports: [
   ],
-  exports: [Ng2TimeagoFrPipeComponent]
+  exports: [Ng2TimeagoFrPipe]
 })
 export class Ng2TimeagoFrPipeModule { }
