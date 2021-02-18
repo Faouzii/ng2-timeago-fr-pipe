@@ -24,7 +24,7 @@ A very simple Angular pipe for converting dates into a french time ago
 
 you can import this package to your angular project as the following :
 
-npm install -ng2-timeago-fr-pipe
+    npm install ng2-timeago-fr-pipe --save
 
 ## Usage
 
