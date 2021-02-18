@@ -26,4 +26,6 @@ you can import this package to your angular project as the following :
 
 npm install -ng2-timeago-fr-pipe
 
-You can import and use this pipe in your angular projet, as the following :
+## Usage
+
+You can use this pipe in your angular projet, as the following :
