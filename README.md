@@ -32,7 +32,7 @@ You can use this pipe in your angular projet, as the following :
 
 1- Import the pipe Ng2TimeagoFrPipe in the module where you want to use it :
     
-    import {Ng2TimeagoFrPipe} from 'ng2-timeago-fr-pipe';
+    import { Ng2TimeagoFrPipe } from 'ng2-timeago-fr-pipe';
     
 2- Add "Ng2TimeagoFrPipe" to your module declarations
 
